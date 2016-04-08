@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armjlink2.dll" 
+
+"C:\SiliconLabs\SimplicityStudio\v3\developer\sdks\efm32\v2\kits\SLSTK3401A_EFM32PG\examples\humitempCopy\iar\humitemp\Debug\Exe\humitemp.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\SiliconLaboratories\Trace_EFM32JG.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\flashloader\SiliconLaboratories\FlashGECKOP2.board" 
+
+
+
+
